@@ -7,7 +7,7 @@ export const CompleteOrderContainer = styled.form`
     gap: 2rem;
 `;
 
-export const SectionStyle = styled.div`
+export const SectionBaseStyle = styled.div`
     width: 100%;
     background: ${({ theme }) => theme.colors["base-card"]};
     border-radius: 6px;

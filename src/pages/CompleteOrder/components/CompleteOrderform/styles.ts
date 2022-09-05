@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { SectionStyle } from "../../styles";
+import { SectionBaseStyle } from "../../styles";
 
 export const CompleteOrderFormContainer = styled.div`
     display: flex;
@@ -8,7 +8,7 @@ export const CompleteOrderFormContainer = styled.div`
     width: 40rem;
 `;
 
-export const FormSectionContainer = styled(SectionStyle)`
+export const FormSectionContainer = styled(SectionBaseStyle)`
     display: flex;
     flex-direction: column;
     gap: 2rem;
