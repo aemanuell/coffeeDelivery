@@ -13,7 +13,7 @@ export function Intro() {
                 <div>
                     <section>
                         <IntroTitle size="xl">
-                            Encontre o café perfeito para qualque hora do dia
+                            Encontre o café perfeito para qualquer hora do dia
                         </IntroTitle>
                         <RegularText size="l" color="subtitle" as="h3">
                             Com o Coffee Delivery você recebe seu café onde estiver, a
